@@ -48,3 +48,49 @@ p{
     cursor: pointer;
     color: rgb(75, 74, 74);
 }
+li{
+    margin: auto;
+    display: inline-block;
+    color: white;
+    text-shadow: 1.5px 1.5px 1.5px rgba(0, 0, 0, 0.5);
+}
+.ss{
+    margin-right: 150px;    
+}
+.ee{
+    padding-right: 15px;
+}
+ul{
+    padding-left: 20px;
+    margin: 0px;
+}
+input{
+    width: 230px;
+    margin-left: 20px;
+}
+.back,
+.play,
+.for{
+    border-color: #ffffff;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}
+.back:hover{
+    border-color: #1c1b1b;
+}
+.play:hover{
+    border-color: #1c1b1b;
+}
+.for:hover{
+    border-color: #1c1b1b;
+}
+.bb{
+    margin-left: 22px;
+}
+.pp{
+    margin-left: 22px;
+}
+.ff{
+    margin-left: 22px;
+}
